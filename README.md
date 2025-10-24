@@ -166,15 +166,8 @@ This project demonstrates understanding of:
 - **Educational Software** - Teaching through technology
 - **Code Documentation** - Clear, readable programming
 
-## 👨‍💻 Author
-
-**Keenan Kelly**
 
 This chatbot project showcases fundamental Python programming skills and interactive application development.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
