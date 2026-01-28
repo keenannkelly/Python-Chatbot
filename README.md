@@ -142,21 +142,6 @@ question = "Your custom programming question here..."
 correct_answer = 1  # Update correct answer number
 ```
 
-### **Add New Features**
-- Additional quiz questions
-- More mathematical games
-- Extended conversation topics
-- User preference storage
-
-## 🚀 Future Enhancements
-
-- **Persistent Memory** - Save user preferences
-- **Extended Quiz Bank** - Multiple programming questions
-- **Difficulty Levels** - Adaptive questioning
-- **GUI Interface** - Graphical user interface
-- **Natural Language Processing** - More conversational responses
-- **Multi-language Support** - International accessibility
-
 ## 📚 Learning Outcomes
 
 This project demonstrates understanding of:
